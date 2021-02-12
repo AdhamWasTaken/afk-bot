@@ -1,6 +1,6 @@
 {
 	"ip":"ADHAMs.aternos.ip",
-	"port": "56454",
+	"port": "25565",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
